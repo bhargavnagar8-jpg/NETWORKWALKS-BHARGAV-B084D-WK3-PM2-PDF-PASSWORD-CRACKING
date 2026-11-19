@@ -30,6 +30,7 @@ Week 3 submission for the **Networkwalks Cybersecurity Internship** (`#Waqaskari
 - [Results](#-results)
 - [What I Learned](#-what-i-learned)
 - [Screenshots](#-screenshots)
+- [References](#-References)
 - [Ethical Considerations](#-Ethical-Considerations)
 - [Disclaimer](#-Disclaimer)
 
