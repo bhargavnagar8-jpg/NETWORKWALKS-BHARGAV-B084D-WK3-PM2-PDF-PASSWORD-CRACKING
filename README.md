@@ -15,8 +15,8 @@ Week 3 submission for the **Networkwalks Cybersecurity Internship** (`#Waqaskari
 | **Batch** | B084D |
 | **Week** | Week 3 Pdf Password Cracking |
 | **Program** | Networkwalks Cybersecurity Internship (#Waqaskarim) |
-| **LinkedIn** | [linkedin.com/in/\<your-linkedin-handle\>](https://www.linkedin.com/in/bhargav-nagar-892a54447/) |
-| **GitHub** | [github.com/\<your-github-handle\>](https://github.com/bhargavnagar8-jpg) |
+| **LinkedIn** | (https://www.linkedin.com/in/bhargav-nagar-892a54447/) |
+| **GitHub** | (https://github.com/bhargavnagar8-jpg) |
 
 ---
 
