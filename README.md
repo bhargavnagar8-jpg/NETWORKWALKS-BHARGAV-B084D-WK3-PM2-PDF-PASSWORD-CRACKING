@@ -30,6 +30,8 @@ Week 3 submission for the **Networkwalks Cybersecurity Internship** (`#Waqaskari
 - [Results](#-results)
 - [What I Learned](#-what-i-learned)
 - [Screenshots](#-screenshots)
+- [Ethical Considerations](#-Ethical-Considerations)
+- [Disclaimer](#-Disclaimer)
 
 ---
 
@@ -169,6 +171,20 @@ NETWORKWALKS-<YOUR-NAME>-B084D-WK3-PM2-PDF-PASSWORD-CRACKING/
 ---
 *Submitted as part of the Networkwalks Cybersecurity Internship — Batch B084D — Week 3, PM2.*
 *Tagging [@Networkwalks](https://www.linkedin.com/company/networkwalks) & [@Waqas Karim CCIE](https://www.linkedin.com/in/waqaskarim) — `#Networkwalks`*
+
+## References ##
+John the Ripper (official): https://www.openwall.com/john/
+Johnny (official): https://openwall.info/wiki/john/johnny
+NetworkWalks Academy: https://www.networkwalks.com/
+
+## Ethical Considerations ##
+This project was carried out strictly for educational purposes, as part of an authorized NetworkWalks Cybersecurity training exercise in a controlled lab environment.
+Intended for learning password-security concepts and authorized security testing only.
+Not intended to encourage or assist cracking passwords on files, accounts, or systems you do not own or have explicit permission to test.
+Password auditing should always be performed responsibly, with proper authorization.
+
+## Disclaimer ##
+This repository documents a training lab exercise completed as part of NetworkWalks Academy's cybersecurity coursework. It is shared for educational and portfolio purposes only and does not constitute professional penetration-testing services or endorse unauthorized password recovery of any kind.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-nagar-892a54447/)
