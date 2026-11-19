@@ -2,11 +2,26 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![Week](https://img.shields.io/badge/Week-3-blue) ![Task](https://img.shields.io/badge/Task-PM2-orange) ![Batch](https://img.shields.io/badge/Batch-B084D-lightgrey)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bhargav-nagar-892a54447/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/bhargavnagar8-jpg)
+
 Week 3 submission for the **Networkwalks Cybersecurity Internship** (`#Waqaskarim`) — cracking password‑protected PDF files with **John the Ripper (Johnny GUI)** and the Networkwalks **NW Tools Lab (WK3‑PM2)**.
+
+> 📌 Cracked password-protected PDFs using John the Ripper (Johnny GUI) and Networkwalks' Hash Calculator + Dictionary Attack Lab — Week 3 cybersecurity internship task (WK3-PM2).
+
+## 👤 Author
+| | |
+|---|---|
+| **Name** | BHARGAV NAGAR |
+| **Batch** | B084D |
+| **Week** | Week 3 Pdf Password Cracking |
+| **Program** | Networkwalks Cybersecurity Internship (#Waqaskarim) |
+| **LinkedIn** | [linkedin.com/in/\<your-linkedin-handle\>](https://www.linkedin.com/in/bhargav-nagar-892a54447/) |
+| **GitHub** | [github.com/\<your-github-handle\>](https://github.com/bhargavnagar8-jpg) |
 
 ---
 
 ## 📖 Table of Contents
+- [Author](#-author)
 - [Objective](#-objective)
 - [Working Environment](#-working-environment)
 - [Tools Used](#️-tools-used)
@@ -102,24 +117,61 @@ NETWORKWALKS-<YOUR-NAME>-B084D-WK3-PM2-PDF-PASSWORD-CRACKING/
 
 ## 📸 Screenshots
 
-| Step | Screenshot |
-|---|---|
-| Johnny pointed to the John the Ripper executable | `screenshots/01-johnny-settings-setup.png` |
-| Hash extracted from locked PDF 1 (Online Hash Crack) | `screenshots/02-hash-extraction-pdf1-onlinehashcrack.png` |
-| Hash saved as `hash1.txt` | `screenshots/03-hash1-saved-as-txt.png` |
-| Johnny cracks password → `good-luck` | `screenshots/04-johnny-cracked-password-good-luck.png` |
-| 🚩 Flag 1 captured | `screenshots/05-flag1-captured-pdf1.png` |
-| Hash saved as `hash2.txt` | `screenshots/06-hash2-saved-as-txt.png` |
-| Johnny cracks password → `password1` | `screenshots/07-johnny-cracked-password-password1.png` |
-| 🚩 Flag 2 captured | `screenshots/08-flag2-captured-pdf2.png` |
-| Hash saved as `hash3.txt` | `screenshots/09-hash3-saved-as-txt.png` |
-| Johnny cracks password → `1qaz2wsx` | `screenshots/10-johnny-cracked-password-1qaz2wsx.png` |
-| 🚩 Flag 3 captured | `screenshots/11-flag3-captured-pdf3.png` |
-| Networkwalks Hash Calculator extracts the WK3‑PM2 hash | `screenshots/12-nw-hash-calculator-wk3-pm2.png` |
-| Dictionary Attack Lab cracks password → `password1` | `screenshots/13-nw-dictionary-attack-lab-cracked.png` |
-| Entering the recovered password into the PDF | `screenshots/14-pdf-password-entry-wk3-pm2.png` |
-| 🚩 Final flag captured (WK3‑PM2) | `screenshots/15-flag4-wk3-pm2-captured.png` |
+### Part 1 — John the Ripper (Johnny GUI)
+
+**1. Johnny pointed to the John the Ripper executable**
+![Johnny settings setup](screenshots/01-johnny-settings-setup.png)
+
+**2. Hash extracted from locked PDF 1 (Online Hash Crack)**
+![Hash extraction PDF1](screenshots/02-hash-extraction-pdf1-onlinehashcrack.png)
+
+**3. Hash saved as `hash1.txt`**
+![Hash1 saved](screenshots/03-hash1-saved-as-txt.png)
+
+**4. Johnny cracks the password → `good-luck`**
+![Johnny cracked good-luck](screenshots/04-johnny-cracked-password-good-luck.png)
+
+**5. 🚩 Flag 1 captured**
+![Flag 1 captured](screenshots/05-flag1-captured-pdf1.png)
+
+**6. Hash saved as `hash2.txt`**
+![Hash2 saved](screenshots/06-hash2-saved-as-txt.png)
+
+**7. Johnny cracks the password → `password1`**
+![Johnny cracked password1](screenshots/07-johnny-cracked-password-password1.png)
+
+**8. 🚩 Flag 2 captured**
+![Flag 2 captured](screenshots/08-flag2-captured-pdf2.png)
+
+**9. Hash saved as `hash3.txt`**
+![Hash3 saved](screenshots/09-hash3-saved-as-txt.png)
+
+**10. Johnny cracks the password → `1qaz2wsx`**
+![Johnny cracked 1qaz2wsx](screenshots/10-johnny-cracked-password-1qaz2wsx.png)
+
+**11. 🚩 Flag 3 captured**
+![Flag 3 captured](screenshots/11-flag3-captured-pdf3.png)
+
+### Part 2 — NW Tools Lab (WK3‑PM2)
+
+**12. Networkwalks Hash Calculator extracts the WK3‑PM2 hash**
+![NW Hash Calculator](screenshots/12-nw-hash-calculator-wk3-pm2.png)
+
+**13. Dictionary Attack Lab cracks the password → `password1`**
+![Dictionary attack lab cracked](screenshots/13-nw-dictionary-attack-lab-cracked.png)
+
+**14. Entering the recovered password into the PDF**
+![PDF password entry](screenshots/14-pdf-password-entry-wk3-pm2.png)
+
+**15. 🚩 Final flag captured (WK3‑PM2)**
+![Flag 4 captured](screenshots/15-flag4-wk3-pm2-captured.png)
 
 ---
 *Submitted as part of the Networkwalks Cybersecurity Internship — Batch B084D — Week 3, PM2.*
 *Tagging [@Networkwalks](https://www.linkedin.com/company/networkwalks) & [@Waqas Karim CCIE](https://www.linkedin.com/in/waqaskarim) — `#Networkwalks`*
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-nagar-892a54447/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhargavnagar8-jpg)
+
+⭐ If you found this walkthrough useful, feel free to star the repo!
